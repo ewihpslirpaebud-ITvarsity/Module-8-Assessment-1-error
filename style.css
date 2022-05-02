@@ -1,0 +1,61 @@
+body{
+    background-image: url("images/pexels-simon-berger-1266810.jpg" );
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.heading{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-weight: 900;
+    margin-top: 100px; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p{
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: 900;
+}
+
+form{
+   position: static;
+   height: 300px;
+   margin: 500px;
+   margin-top: 25px !important;
+   text-align: center;
+   background-color: rgba(187, 179, 184, 0.2);
+   border: 1px solid #292c2a;
+   
+}
+
+label{
+    padding: 15px;
+    padding-top: 15px;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+
+.login{
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    font-weight: 600;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+#p1{
+    color: #000000;
+    font-weight: 800;
+    text-decoration: none;
+}
+
+.login:hover{
+color: rgb(255, 255, 255) ;
+}
+
+#p1:hover{
+    color: rgb(236, 236, 236) ;
+    }
+
